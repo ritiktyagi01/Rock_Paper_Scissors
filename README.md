@@ -22,7 +22,7 @@ Modules: random (for computer choice)
 
 🚀 How to Run
 Clone the repository
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/ritiktyagi01/rock-paper-scissors.git
 cd rock-paper-scissors
 
 Run the game (Python example)
@@ -55,3 +55,4 @@ Add GUI version (Tkinter, PyQt, or web-based).
 Support multiplayer mode.
 
 Add score tracking across multiple rounds.
+
